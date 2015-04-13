@@ -1,0 +1,16 @@
+section.posts-container {
+  padding: 3rem 1rem;
+}
+
+article.post {
+	margin:2rem 0;
+}
+
+section.posts-container article.post:first-child {
+	margin:0 0 2rem 0;
+}
+
+.post-image {
+	margin:1rem 0;
+	padding:0;
+}

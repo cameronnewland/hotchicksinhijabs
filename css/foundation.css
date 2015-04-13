@@ -1,78 +1,78 @@
-/* line 352, ../scss/foundation/components/_global.scss */
+/* line 353, ../scss/foundation/components/_global.scss */
 meta.foundation-version {
   font-family: "/{{VERSION}}/";
 }
 
-/* line 356, ../scss/foundation/components/_global.scss */
+/* line 357, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-small {
   font-family: "/only screen/";
   width: 0;
 }
 
-/* line 361, ../scss/foundation/components/_global.scss */
+/* line 362, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-small-only {
   font-family: "/only screen and (max-width: 40em)/";
   width: 0;
 }
 
-/* line 366, ../scss/foundation/components/_global.scss */
+/* line 367, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-medium {
   font-family: "/only screen and (min-width:40.0625em)/";
   width: 40.0625em;
 }
 
-/* line 371, ../scss/foundation/components/_global.scss */
+/* line 372, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-medium-only {
   font-family: "/only screen and (min-width:40.0625em) and (max-width:64em)/";
   width: 40.0625em;
 }
 
-/* line 376, ../scss/foundation/components/_global.scss */
+/* line 377, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-large {
   font-family: "/only screen and (min-width:64.0625em)/";
   width: 64.0625em;
 }
 
-/* line 381, ../scss/foundation/components/_global.scss */
+/* line 382, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-large-only {
   font-family: "/only screen and (min-width:64.0625em) and (max-width:90em)/";
   width: 64.0625em;
 }
 
-/* line 386, ../scss/foundation/components/_global.scss */
+/* line 387, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-xlarge {
   font-family: "/only screen and (min-width:90.0625em)/";
   width: 90.0625em;
 }
 
-/* line 391, ../scss/foundation/components/_global.scss */
+/* line 392, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-xlarge-only {
   font-family: "/only screen and (min-width:90.0625em) and (max-width:120em)/";
   width: 90.0625em;
 }
 
-/* line 396, ../scss/foundation/components/_global.scss */
+/* line 397, ../scss/foundation/components/_global.scss */
 meta.foundation-mq-xxlarge {
   font-family: "/only screen and (min-width:120.0625em)/";
   width: 120.0625em;
 }
 
-/* line 401, ../scss/foundation/components/_global.scss */
+/* line 402, ../scss/foundation/components/_global.scss */
 meta.foundation-data-attribute-namespace {
   font-family: false;
 }
 
-/* line 410, ../scss/foundation/components/_global.scss */
+/* line 411, ../scss/foundation/components/_global.scss */
 html, body {
   height: 100%;
 }
 
-/* line 413, ../scss/foundation/components/_global.scss */
+/* line 414, ../scss/foundation/components/_global.scss */
 html {
   box-sizing: border-box;
 }
 
-/* line 416, ../scss/foundation/components/_global.scss */
+/* line 417, ../scss/foundation/components/_global.scss */
 *,
 *:before,
 *:after {
@@ -81,13 +81,13 @@ html {
   box-sizing: inherit;
 }
 
-/* line 422, ../scss/foundation/components/_global.scss */
+/* line 423, ../scss/foundation/components/_global.scss */
 html,
 body {
   font-size: 100%;
 }
 
-/* line 426, ../scss/foundation/components/_global.scss */
+/* line 427, ../scss/foundation/components/_global.scss */
 body {
   background: #fff;
   color: #222;
@@ -101,23 +101,23 @@ body {
   position: relative;
 }
 
-/* line 439, ../scss/foundation/components/_global.scss */
+/* line 440, ../scss/foundation/components/_global.scss */
 a:hover {
   cursor: pointer;
 }
 
-/* line 442, ../scss/foundation/components/_global.scss */
+/* line 443, ../scss/foundation/components/_global.scss */
 img {
   max-width: 100%;
   height: auto;
 }
 
-/* line 444, ../scss/foundation/components/_global.scss */
+/* line 445, ../scss/foundation/components/_global.scss */
 img {
   -ms-interpolation-mode: bicubic;
 }
 
-/* line 449, ../scss/foundation/components/_global.scss */
+/* line 450, ../scss/foundation/components/_global.scss */
 #map_canvas img,
 #map_canvas embed,
 #map_canvas object,
@@ -130,12 +130,12 @@ img {
   max-width: none !important;
 }
 
-/* line 456, ../scss/foundation/components/_global.scss */
+/* line 457, ../scss/foundation/components/_global.scss */
 .left {
   float: left !important;
 }
 
-/* line 457, ../scss/foundation/components/_global.scss */
+/* line 458, ../scss/foundation/components/_global.scss */
 .right {
   float: right !important;
 }
@@ -150,35 +150,35 @@ img {
   clear: both;
 }
 
-/* line 461, ../scss/foundation/components/_global.scss */
+/* line 462, ../scss/foundation/components/_global.scss */
 .hide {
   display: none;
 }
 
-/* line 466, ../scss/foundation/components/_global.scss */
+/* line 467, ../scss/foundation/components/_global.scss */
 .invisible {
   visibility: hidden;
 }
 
-/* line 472, ../scss/foundation/components/_global.scss */
+/* line 473, ../scss/foundation/components/_global.scss */
 .antialiased {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* line 475, ../scss/foundation/components/_global.scss */
+/* line 476, ../scss/foundation/components/_global.scss */
 img {
   display: inline-block;
   vertical-align: middle;
 }
 
-/* line 485, ../scss/foundation/components/_global.scss */
+/* line 486, ../scss/foundation/components/_global.scss */
 textarea {
   height: auto;
   min-height: 50px;
 }
 
-/* line 488, ../scss/foundation/components/_global.scss */
+/* line 489, ../scss/foundation/components/_global.scss */
 select {
   width: 100%;
 }
@@ -4761,208 +4761,6 @@ label.error {
   display: block;
 }
 
-/* Foundation Joyride */
-/* line 48, ../scss/foundation/components/_joyride.scss */
-.joyride-list {
-  display: none;
-}
-
-/* Default styles for the container */
-/* line 51, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide {
-  background: #333333;
-  color: #FFFFFF;
-  display: none;
-  font-family: inherit;
-  font-weight: normal;
-  position: absolute;
-  top: 0;
-  width: 95%;
-  z-index: 101;
-  left: 2.5%;
-}
-
-/* line 64, ../scss/foundation/components/_joyride.scss */
-.lt-ie9 .joyride-tip-guide {
-  margin-left: -400px;
-  max-width: 800px;
-  left: 50%;
-}
-
-/* line 70, ../scss/foundation/components/_joyride.scss */
-.joyride-content-wrapper {
-  padding: 1.125rem 1.25rem 1.5rem;
-  width: 100%;
-}
-/* line 74, ../scss/foundation/components/_joyride.scss */
-.joyride-content-wrapper .button {
-  margin-bottom: 0 !important;
-}
-/* line 76, ../scss/foundation/components/_joyride.scss */
-.joyride-content-wrapper .joyride-prev-tip {
-  margin-right: 10px;
-}
-
-/* Add a little css triangle pip, older browser just miss out on the fanciness of it */
-/* line 81, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide .joyride-nub {
-  border: 10px solid #333333;
-  display: block;
-  height: 0;
-  position: absolute;
-  width: 0;
-  left: 22px;
-}
-/* line 89, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide .joyride-nub.top {
-  border-color: #333333;
-  border-top-color: transparent !important;
-  border-top-style: solid;
-  border-left-color: transparent !important;
-  border-right-color: transparent !important;
-  top: -20px;
-}
-/* line 97, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide .joyride-nub.bottom {
-  border-bottom-color: transparent !important;
-  border-bottom-style: solid;
-  border-color: #333333 !important;
-  border-left-color: transparent !important;
-  border-right-color: transparent !important;
-  bottom: -20px;
-}
-/* line 106, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide .joyride-nub.right {
-  right: -20px;
-}
-/* line 107, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide .joyride-nub.left {
-  left: -20px;
-}
-
-/* Typography */
-/* line 112, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide h1,
-.joyride-tip-guide h2,
-.joyride-tip-guide h3,
-.joyride-tip-guide h4,
-.joyride-tip-guide h5,
-.joyride-tip-guide h6 {
-  color: #FFFFFF;
-  font-weight: bold;
-  line-height: 1.25;
-  margin: 0;
-}
-
-/* line 123, ../scss/foundation/components/_joyride.scss */
-.joyride-tip-guide p {
-  font-size: 0.875rem;
-  line-height: 1.3;
-  margin: 0 0 1.125rem 0;
-}
-
-/* line 129, ../scss/foundation/components/_joyride.scss */
-.joyride-timer-indicator-wrap {
-  border: solid 1px #555555;
-  bottom: 1rem;
-  height: 3px;
-  position: absolute;
-  width: 50px;
-  right: 1.0625rem;
-}
-
-/* line 137, ../scss/foundation/components/_joyride.scss */
-.joyride-timer-indicator {
-  background: #666666;
-  display: block;
-  height: inherit;
-  width: 0;
-}
-
-/* line 144, ../scss/foundation/components/_joyride.scss */
-.joyride-close-tip {
-  color: #777777 !important;
-  font-size: 24px;
-  font-weight: normal;
-  line-height: .5 !important;
-  position: absolute;
-  text-decoration: none;
-  top: 10px;
-  right: 12px;
-}
-/* line 154, ../scss/foundation/components/_joyride.scss */
-.joyride-close-tip:hover, .joyride-close-tip:focus {
-  color: #EEEEEE !important;
-}
-
-/* line 158, ../scss/foundation/components/_joyride.scss */
-.joyride-modal-bg {
-  background: rgba(0, 0, 0, 0.5);
-  cursor: pointer;
-  display: none;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  z-index: 100;
-  left: 0;
-}
-
-/* line 170, ../scss/foundation/components/_joyride.scss */
-.joyride-expose-wrapper {
-  background-color: #FFFFFF;
-  border-radius: 3px;
-  box-shadow: 0 0 15px #FFFFFF;
-  position: absolute;
-  z-index: 102;
-}
-
-/* line 178, ../scss/foundation/components/_joyride.scss */
-.joyride-expose-cover {
-  background: transparent;
-  border-radius: 3px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  z-index: 9999;
-}
-
-/* Styles for screens that are at least 768px; */
-@media only screen and (min-width: 40.0625em) {
-  /* line 190, ../scss/foundation/components/_joyride.scss */
-  .joyride-tip-guide {
-    width: 300px;
-    left: inherit;
-  }
-  /* line 192, ../scss/foundation/components/_joyride.scss */
-  .joyride-tip-guide .joyride-nub.bottom {
-    border-bottom-color: transparent !important;
-    border-color: #333333 !important;
-    border-left-color: transparent !important;
-    border-right-color: transparent !important;
-    bottom: -20px;
-  }
-  /* line 199, ../scss/foundation/components/_joyride.scss */
-  .joyride-tip-guide .joyride-nub.right {
-    border-color: #333333 !important;
-    border-right-color: transparent !important;
-    border-bottom-color: transparent !important;
-    border-top-color: transparent !important;
-    left: auto;
-    right: -20px;
-    top: 22px;
-  }
-  /* line 207, ../scss/foundation/components/_joyride.scss */
-  .joyride-tip-guide .joyride-nub.left {
-    border-bottom-color: transparent !important;
-    border-color: #333333 !important;
-    border-left-color: transparent !important;
-    border-top-color: transparent !important;
-    left: -20px;
-    right: auto;
-    top: 22px;
-  }
-}
 /* line 54, ../scss/foundation/components/_keystrokes.scss */
 .keystroke,
 kbd {
@@ -9278,4 +9076,29 @@ th.hide-for-touch {
   th.show-for-print {
     display: table-cell !important;
   }
+}
+/* line 1, ../scss/parts/_header.scss */
+.logo-type {
+  font-family: "Lobster";
+}
+
+/* line 1, ../scss/parts/_posts.scss */
+section.posts-container {
+  padding: 3rem 1rem;
+}
+
+/* line 5, ../scss/parts/_posts.scss */
+article.post {
+  margin: 2rem 0;
+}
+
+/* line 9, ../scss/parts/_posts.scss */
+section.posts-container article.post:first-child {
+  margin: 0 0 2rem 0;
+}
+
+/* line 13, ../scss/parts/_posts.scss */
+.post-image {
+  margin: 1rem 0;
+  padding: 0;
 }
